@@ -2,7 +2,7 @@
 
 ## Bootcamp BairesDev - Machine Learning Practitioner - Desafios
 
-🚀 **Descrição do Projeto**  
+## 🚀 **Descrição do Projeto - Desafio 1**
 Este projeto implementa uma solução de aprendizado profundo para classificar dígitos manuscritos usando o conjunto de dados MNIST. Ele combina a simplicidade do MNIST com a sofisticação de redes neurais convolucionais modernas através de **transfer learning** utilizando a **MobileNetV2**. O pipeline do projeto pode ser descrito em etapas principais:
 
 ### 📂 **Carregamento e Pré-processamento dos Dados**
