@@ -33,3 +33,17 @@ Resultados Esperados:
 Uma alta acurácia na classificação dos dígitos do MNIST.
 Demonstração da eficácia de transfer learning mesmo em problemas com dados diferentes do domínio da ImageNet.
 O projeto é ideal para estudantes ou profissionais que desejam aprender sobre transfer learning e combinar redes modernas com datasets clássicos.
+
+
+🖼️ Desafio de Processamento de Imagens -  Desafio 2
+📋 Descrição do Desafio
+Seguindo o exemplo do algoritmo de binarização apresentado em nossa última aula, implemente um programa em Python 🐍 que realize as seguintes transformações em uma imagem colorida:
+
+Converter a imagem para níveis de cinza (valores de 0 a 255).
+Converter a imagem para binária (preto e branco, com valores de 0 e 255).
+🎯 Objetivo
+A partir da imagem de entrada (colorida), obtenha duas saídas:
+
+A imagem em níveis de cinza.
+A imagem binarizada.
+🚀 Boa sorte no desafio e mãos à obra!
