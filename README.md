@@ -65,7 +65,7 @@ A partir da imagem de entrada (colorida), obtenha duas saídas:
 ## 📊 **Desafio 3: Cálculo de Métricas de Avaliação de Aprendizado**
 
 ### 📝 **Descrição do Desafio**
-Neste projeto, você irá calcular as principais métricas utilizadas para avaliar modelos de classificação de dados. Neste projeto, você irá calcular as principais métricas utilizadas para avaliar modelos de classificação de dados, com o objetivo de aplicar essas métricas a um modelo treinado no dataset Iris 🌸. Este é um dataset amplamente utilizado em aprendizado de máquina e contém 150 amostras de flores de íris, distribuídas em 3 classes, com 4 características cada: comprimento e largura da sépala e da pétala. As métricas incluem:
+Neste projeto, você irá calcular as principais métricas utilizadas para avaliar modelos de classificação de dados, com o objetivo de aplicar essas métricas a um modelo treinado no dataset Breast Cancer. Este dataset é amplamente utilizado em aprendizado de máquina e contém 569 amostras de tumores de mama, classificados em duas classes: maligno e benigno, com 30 características de medidas relacionadas a propriedades das células do tumor. As métricas incluem:
 
 - Acurácia
 - Sensibilidade (Recall)
